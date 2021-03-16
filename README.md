@@ -1,2 +1,1 @@
-# Wolfram
-Elementary Cellular Automaton
+# package
