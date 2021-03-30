@@ -25,6 +25,7 @@
 ## About The Project
 
 The goal of this project is to implement Wolfram’s elementary cellular automaton in the terminal.
+![](img/screenshot-one_d_cellular_automata.png)
 
 ### Built With
 
