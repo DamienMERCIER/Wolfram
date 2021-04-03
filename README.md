@@ -56,11 +56,11 @@ If you don't already have Ghci, you need to install it.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Compile
+1. Compile 
    ```sh
    make
    ```
-3. test it !
+3. test it
    ```sh
    ./wolfram --rule 90 --lines 20 --start 100
    ```
